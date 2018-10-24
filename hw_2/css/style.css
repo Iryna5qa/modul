@@ -1,0 +1,38 @@
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-left: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.navigation{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 77px;
+}
+.navigation a{
+    margin-top: 120px;
+    font-family: PlayfairDisplay;
+    color:  #626262;
+    font-size: 14px;/* Approximation due to font substitution */
+    font-weight: 400;
+    line-height: 24px;/* Approximation due to font substitution */
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40px;
+}
+.navigation a:hover{
+    color:  #03a9f4;
+}
+.main {
+    width: 420px;
+    height: 478px;
+    font-family: PlayfairDisplay;
+    color:  #626262;
+    font-size: 14px;/* Approximation due to font substitution */
+    font-weight: 400;
+    line-height: 24px;/* Approximation due to font substitution */
+    text-align: left;
+    margin-left: 40px;
+}
